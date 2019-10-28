@@ -1,6 +1,6 @@
 {
   "name": "comp3104",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "COMP3104 - DevOps",
   "main": "index.js",
   "scripts": {
